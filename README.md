@@ -15,12 +15,12 @@ Há 1 tarefa pré-definida como exemplo que você pode usar para apagar, editar 
 
 ### Tecnologias 🚀
 
-- Javascript
-- React JS
-- Vite
-- React Router Dom
-- Sass
-- JSON Server
+• Javascript
+• React JS
+• Vite
+• React Router Dom
+• Sass
+• JSON Server
 
 
 ### Como rodar no seu computador🖥️
