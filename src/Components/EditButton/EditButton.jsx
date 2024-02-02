@@ -1,7 +1,10 @@
-import EditIcon from "./editIcon.svg";
+import EditIcon from "./editIcon.svg"
 
 function EditButton(props) {
-  return <img className="icon" src={EditIcon} onClick={props.onClick} alt="" />;
+
+    return (
+        <img style={{cursor:"pointer"}} src={EditIcon} onClick={props.onClick} alt="" />
+    )
 }
 
-export default EditButton;
+export default EditButton
